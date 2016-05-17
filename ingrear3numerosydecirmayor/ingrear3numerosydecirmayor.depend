@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1461711591 source:c:\users\daniel jab\desktop\programacion de sistemas\ingrear3numerosydecirmayor\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
