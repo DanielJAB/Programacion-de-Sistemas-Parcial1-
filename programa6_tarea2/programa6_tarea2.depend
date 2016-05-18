@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1462834319 source:c:\users\daniel jab\desktop\programacion de sistemas\programa6_tarea2\main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+
