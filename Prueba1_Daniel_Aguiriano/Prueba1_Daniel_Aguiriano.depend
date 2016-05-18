@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1462401958 source:c:\users\daniel jab\desktop\programacion de sistemas\prueba1_daniel_aguiriano\main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+

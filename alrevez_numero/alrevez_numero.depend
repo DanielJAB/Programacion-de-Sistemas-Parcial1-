@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1462391872 source:c:\users\daniel jab\desktop\programacion de sistemas\alrevez_numero\main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+
